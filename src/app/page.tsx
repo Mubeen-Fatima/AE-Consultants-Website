@@ -144,7 +144,7 @@ const TEAM: TeamMember[] = [
   { name: "Atif Sahi", role: "Manager — Mandi Bahudin", initials: "AS" },
   { name: "Wajahat", role: "Case Officer", initials: "W", photo: "/team/wajahat.jpg" },
   { name: "Suleman Khan", role: "Case Officer", initials: "SK", photo: "/team/suleman-khan.jpg" },
-  { name: "Soha Syed", role: "Case Officer", initials: "SS", photo: "/team/soha-syed.jpg" },
+  { name: "Soha Syed", role: "Case Officer", initials: "SS" },
 ];
 
 const TESTIMONIALS: Testimonial[] = [
